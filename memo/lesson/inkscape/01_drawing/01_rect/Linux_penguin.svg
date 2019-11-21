@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512px"
+   height="512px"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="Linux_penguin.svg"
+   inkscape:version="0.92.1 r15371">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#cccccc"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="0"
+     inkscape:zoom="1"
+     inkscape:cx="364.5"
+     inkscape:cy="196"
+     inkscape:document-units="px"
+     inkscape:current-layer="g56"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="0"
+     inkscape:window-y="36"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="輪郭"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <circle
+       style="fill:#000000"
+       id="path41"
+       cx="255.5"
+       cy="256.5"
+       r="256.5" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="口"
+     style="display:inline">
+    <rect
+       style="fill:#000000;stroke-width:0.81809396"
+       id="rect17"
+       width="170.16354"
+       height="170.16354"
+       x="-129.51559"
+       y="175.70349"
+       transform="matrix(0.86433446,-0.50291743,0.86433446,0.50291743,0,0)" />
+    <path
+       style="fill:#ffffff;stroke-width:1.25659919"
+       d="M 177.97742,421.66974 C 136.37557,395.91653 96.399042,371.16909 89.140714,366.67545 l -13.196964,-8.17027 89.10999,-55.00775 89.10999,-55.00776 88.46814,54.60777 c 48.65748,30.03427 88.46813,54.98017 88.46813,55.43532 0,0.70547 -174.57811,109.11344 -176.72122,109.73879 -0.41889,0.1222 -34.7995,-20.84859 -76.40136,-46.60181 z"
+       id="path39"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="目"
+     style="display:none">
+    <circle
+       style="fill:#ffffff;stroke-width:1.0071429"
+       id="path43"
+       cx="127.5"
+       cy="203.5"
+       r="70.5" />
+  </g>
+  <g
+     inkscape:label="目 コピー"
+     id="g52"
+     inkscape:groupmode="layer">
+    <circle
+       r="70.5"
+       cy="203.5"
+       cx="127.5"
+       id="circle50"
+       style="fill:#ffffff;stroke-width:1.0071429"
+       inkscape:tile-cx="127.5"
+       inkscape:tile-cy="203.5"
+       inkscape:tile-w="141"
+       inkscape:tile-h="141"
+       inkscape:tile-x0="57"
+       inkscape:tile-y0="133" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#circle50"
+       xlink:href="#circle50"
+       id="use3750" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#circle50"
+       xlink:href="#circle50"
+       transform="matrix(-1,0,0,1,509,0)"
+       id="use3752"
+       width="100%"
+       height="100%" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="瞳"
+     style="display:none">
+    <circle
+       style="fill:#000000;stroke-width:0.82653064"
+       id="path48"
+       cx="126.5"
+       cy="201.5"
+       r="40.5" />
+  </g>
+  <g
+     inkscape:label="瞳 コピー"
+     id="g56"
+     inkscape:groupmode="layer">
+    <circle
+       r="40.5"
+       cy="201.5"
+       cx="126.5"
+       id="circle54"
+       style="fill:#000000;stroke-width:0.82653064"
+       inkscape:tile-cx="126.5"
+       inkscape:tile-cy="201.5"
+       inkscape:tile-w="81"
+       inkscape:tile-h="81"
+       inkscape:tile-x0="86"
+       inkscape:tile-y0="161" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#circle54"
+       xlink:href="#circle54"
+       id="use3754" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#circle54"
+       xlink:href="#circle54"
+       transform="matrix(-1,0,0,1,510,0)"
+       id="use3756"
+       width="100%"
+       height="100%" />
+  </g>
+</svg>
