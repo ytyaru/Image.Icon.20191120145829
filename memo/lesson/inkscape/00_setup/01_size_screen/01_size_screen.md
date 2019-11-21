@@ -207,5 +207,5 @@ cat default.ja.svg | xsel -ib
 
 　反映された。OK。
 
-![]()
+![](custom_default.png)
 

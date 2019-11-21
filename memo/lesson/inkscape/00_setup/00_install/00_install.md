@@ -12,3 +12,5 @@ sudo apt install inkscape
 inkscape
 ```
 
+![](startup.png)
+
