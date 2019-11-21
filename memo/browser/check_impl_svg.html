@@ -1,0 +1,26 @@
+<html>
+<body>
+    <script>
+        function getSimbol(is_impl) { return is_impl ? "○" : "☓"; }
+        function setSimbol(dom_id, is_impl) {
+            var elm = document.getElementById(dom_id);
+            elm.textContent = getSimbol(is_impl);
+        }
+        window.onload = function() {
+            var is_impl_11 = document.implementation.hasFeature("http://www.w3.org/TR/SVG11/feature#SVG", 1.1);
+            var is_impl_20 = document.implementation.hasFeature("http://www.w3.org/TR/SVG2/feature#GraphicsAttribute", 2.0);
+            console.log('SVG 1.1 is implementation: ', is_impl_11);
+            console.log('SVG 2.0 is implementation: ', is_impl_20);
+            setSimbol("is_impl_11", is_impl_11);
+            setSimbol("is_impl_20", is_impl_20);
+        };
+    </script>
+    <table>
+        <tr><th>SVG</th><th>実装</th></tr>
+        <tr><th>1.1</th><td id="is_impl_11"></td></tr>
+        <tr><th>2.0</th><td id="is_impl_20"></td></tr>
+    </table>
+</body>
+</html>
+
+

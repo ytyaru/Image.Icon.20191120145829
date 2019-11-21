@@ -39,4 +39,8 @@
 
 * https://triple-underscore.github.io/SVG11/index.html
 * https://triple-underscore.github.io/filter-effects-ja.html
+* https://triple-underscore.github.io/svg-misc-ja.html
+* https://www.w3.org/TR/SVG2/
+
+　SVG2が最新。2019-09-01時点。
 
